@@ -1,4 +1,4 @@
-# Excelerate Opportunity Intelligence & Analytics Suite — Team 11
+# Excelerate Opportunity Intelligence & Analytics Suite
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
